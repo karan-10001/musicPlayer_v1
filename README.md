@@ -1,2 +1,2 @@
-# Named as Sangeet
-Sangeet is music player
+#Music Player
+Names as Sangeet.
